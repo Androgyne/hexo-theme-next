@@ -43,7 +43,7 @@
         <div class="post-meta">
           {% if post.top %}
               <i class="fa fa-thumb-tack"></i>
-              <font color="green">置顶</font>
+              <font color="green">Sticky</font>
               <span class="post-meta-divider">|</span>
           {% endif %}
 
